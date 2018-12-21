@@ -1,16 +1,3 @@
-1947#appautosprod#scs-portalGestionNegocios#http://srkmjenkins.mutua.es:9999/jenkins/project/AUTOSPROD/appautosprod-scs-portalGestionNegocios-pipeline
-1946#appautosprod#scs-cotizadorGlobalis#http://srkmjenkins.mutua.es:9999/jenkins/project/AUTOSPROD/appautosprod-scs-cotizadorGlobalis-pipeline
-1945#appseguros#batch-motor-usuarios#http://srkmjenkins.mutua.es:9999/jenkins/project/SEGUROS/appseguros-batch-motor-usuarios-pipeline
-1943#appasistencia#scs-facturacionacm#http://srkmjenkins.mutua.es:9999/jenkins/project/ASISTENCIA/appasistencia-scs-facturacionacm-pipeline
-1942#apphogarprod#front-pruebas-contratacion#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-front-pruebas-contratacion-pipeline
-1941#apphogarprod#lib-accidentes-thin-client#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-lib-accidentes-thin-client-pipeline
-1940#apphogarprod#lib-accidentes-rest-thin-client#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-lib-accidentes-rest-thin-client-pipeline
-1939#apphogarprod#lib-accidentes-api-model#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-lib-accidentes-api-model-pipeline
-1937#apphogarpres#batch-procesosDistribuidos#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarpres-batch-procesosDistribuidos-pipeline
-1935#apphogarpres#batch-motorMail#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarpres-batch-motorMail-pipeline
-1933#appsopfuncional#lib-fundacion-evenmm-webclient#http://srkmjenkins.mutua.es:9999/jenkins/project/SOPFUNCIONAL/lib-fundacion-evenmm-webclient-pipeline
-1931#apparq#int-xxx-fuse-borrar#http://srkmjenkins.mutua.es:9999/jenkins/project/ARQUITECTURA/apparq-int-xxx-fuse-borrar-pipeline
-1929#digexperience#lib-postman-runner#http://srkmjenkins.mutua.es:9999/jenkins/project/DIGEXPERIENCE/digexperience-lib-postman-runner-pipeline
 1928#apparq#int-xxxx-fuser#http://srkmjenkins.mutua.es:9999/jenkins/project/ARQUITECTURA/apparq-int-xxxx-fuser-pipeline
 1927#apparq#scs-xxxx-testscs#http://srkmjenkins.mutua.es:9999/jenkins/project/ARQUITECTURA/apparq-scs-xxxx-testscs-pipeline
 1926#apparq#scs-xxxx-myscs#http://srkmjenkins.mutua.es:9999/jenkins/project/ARQUITECTURA/apparq-scs-xxxx-myscs-pipeline
@@ -136,7 +123,7 @@
 1736#appcomercial#scs-gestorContactos#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-scs-gestorContactos-pipeline
 1735#appcomercial#lib-angularComponentes#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-lib-angularComponentes-pipeline
 1734#appcomercial#batch-geconCRM#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-batch-geconCRM-pipeline
-1733#appcomercial#scs-serviciosWebCRM#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-scs-serviciosWebCRM-pipeline
+1733#appcomercial#scs-serviciosWebCRM#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-scs-ServiciosWebCRM-pipeline
 1731#apphogarpres#batch-tireaFraude#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarpres-batch-tireaFraude-pipeline
 1730#appcomercial#scs-lopd-access#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-scs-lopd-access-pipeline
 1729#appcomercial#batch-lopd-access-logger#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-batch-lopd-access-logger-pipeline
@@ -177,11 +164,6 @@
 1674#apphogarpres#sccfg-uat#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1698/launch/
 1673#apphogarpres#sccfg-acp#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1697/launch/
 1672#apphogarpres#sccfg-dev#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1696/launch/
-1651#appseguros#sccfg-pro#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1845/launch/
-1650#appseguros#sccfg-prf#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1844/launch/
-1649#appseguros#sccfg-uat#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1846/launch/
-1648#appseguros#sccfg-acp#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1842/launch/
-1647#appseguros#sccfg-dev#https://gittower:YU76-pos@towerpro.mutua.es/api/v1/job_templates/1843/launch/
 1645#appsistemasinf#scs-GestionServicios#http://srkmjenkins.mutua.es:9999/jenkins/project/SISTEMASINF/appsistemasinf-scs-GestionServicios-pipeline
 1644#appsopfuncional#scs-portlet-controlpresencial#http://srkmjenkins.mutua.es:9999/jenkins/project/SOPFUNCIONAL/appsopfuncional-scs-portlet-controlpresencial-pipeline
 1641#appcomercial#lib-gestorContactosPerfilado#http://srkmjenkins.mutua.es:9999/jenkins/project/COMERCIAL/appcomercial-lib-gestorContactosPerfilado-pipeline
@@ -370,7 +352,7 @@
 937#apphogarprod#scs-accidentes-office#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-scs-accidentes-office-pipeline
 936#apphogarprod#scs-accidentes-portalMediador#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-scs-accidentes-portalMediador-pipeline
 934#apphogarprod#scs-accidentes-webPublica#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-scs-accidentes-webPublica-pipeline
-933#apphogarpres#batch-correosremesas#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarpres-batch-correosremesas-pipeline
+933#apphogarpres#batch-apphogarpres-correosremesas#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarpres-batch-apphogarpres-correosremesas-pipeline
 931#appvida#scs-modelo145#http://srkmjenkins.mutua.es:9999/jenkins/project/VIDA/appvida-scs-modelo145-pipeline
 930#appautosprod#scs-autosoffice#http://srkmjenkins.mutua.es:9999/jenkins/project/AUTOSPROD/appautosprod-scs-autosoffice-pipeline
 924#apphogarprod#front-areaPersonaHogar#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarprod-front-areaPersonaHogar-pipeline
@@ -473,7 +455,6 @@
 772#appmutuactivos#lib-lopd-thinclient#http://srkmjenkins.mutua.es:9999/jenkins/project/MUTUACTIVOS/appmutuactivos-lib-lopd-thinclient-pipeline
 771#appmutuactivos#front-oficina-virtual#http://srkmjenkins.mutua.es:9999/jenkins/project/MUTUACTIVOS/appmutuactivos-front-oficina-virtual-pipeline
 769#appautospres#scs-gestiontalleres#http://srkmjenkins.mutua.es:9999/jenkins/project/AUTOSPREST/appautospres-scs-gestiontalleres-pipeline
-767#apphogarpres#batch-autorizame#http://srkmjenkins.mutua.es:9999/jenkins/project/HOGAR/apphogarpres-batch-autorizame-pipeline
 765#digexperience#api-sorteos#http://srkmjenkins.mutua.es:9999/jenkins/project/MUTUA_MOBILE_BACK/API_SORTEOS/DIGITALEXPERIENCE-Apicanal-Sorteos-commitStage
 755#pocarq#poc-base-pipeline#http://srkmjenkins.mutua.es:9999/jenkins/project/POCARQ/test
 754#pocarq#poc-bootstrap#http://srkmjenkins.mutua.es:9999/jenkins/project/POCARQ/poc-bootstrap-pipeline-lib
